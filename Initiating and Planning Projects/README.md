@@ -2,11 +2,9 @@
 
 
 # About this Course
-The courses in the Introduction to Project Management Principles and Practices Specialization are a recommended precursor to UCI's Applied Project Management Certificate. 
+The courses in the Introduction to Project Management Principles and Practices Specialization are a recommended precursor to UCI's Applied Project Management Certificate.  Successful projects require careful upfront planning. In this course, you’ll learn the key roles and responsibilities of the project manager and project team. You’ll also learn to answer some key questions upfront to help you meet project objectives: What will this project accomplish? Why is this project important? Who benefits from this project? How will we plan for successful outcomes?
 
-# Successful projects require careful upfront planning. In this course, you’ll learn the key roles and responsibilities of the project manager and project team. You’ll also learn to answer some key questions upfront to help you meet project objectives: What will this project accomplish? Why is this project important? Who benefits from this project? How will we plan for successful outcomes?
-
-* Upon completing this course, you will be able to:
+# Upon completing this course, you will be able to:
 * Identify the key characteristics of a project
 * Identify primary project constraints
 * Define the role and responsibilities of the project manager
